@@ -1,4 +1,3 @@
 # Testing
 
-My name is Ganesh
-My name is Lakhan
+My name is Mike
